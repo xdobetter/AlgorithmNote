@@ -24,5 +24,11 @@
     <ClCompile Include="1007.cpp">
       <Filter>源文件\Chapter13 Dp</Filter>
     </ClCompile>
+    <ClCompile Include="1040.cpp">
+      <Filter>源文件\PAT</Filter>
+    </ClCompile>
+    <ClCompile Include="暴力求解LES.cpp">
+      <Filter>源文件\Chapter13 Dp</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
