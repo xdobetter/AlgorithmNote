@@ -13,10 +13,16 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\Chapter13 Dp">
+      <UniqueIdentifier>{a4bef263-9ce4-4d62-b860-502d17be6292}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\PAT">
+      <UniqueIdentifier>{a4f1dfa2-546f-4d4d-a4ed-05b4a1c26fef}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1007.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\Chapter13 Dp</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
