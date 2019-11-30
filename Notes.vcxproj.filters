@@ -39,5 +39,8 @@
     <ClCompile Include="树的静态写法.cpp">
       <Filter>源文件\Chapter9 Tree</Filter>
     </ClCompile>
+    <ClCompile Include="1053.cpp">
+      <Filter>源文件\PAT</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

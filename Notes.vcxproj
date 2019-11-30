@@ -87,6 +87,7 @@
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
       <ConformanceMode>true</ConformanceMode>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -125,6 +126,7 @@
   <ItemGroup>
     <ClCompile Include="1007.cpp" />
     <ClCompile Include="1040.cpp" />
+    <ClCompile Include="1053.cpp" />
     <ClCompile Include="暴力求解LES.cpp" />
     <ClCompile Include="树的静态写法.cpp" />
     <ClCompile Include="静态二叉树.cpp" />
