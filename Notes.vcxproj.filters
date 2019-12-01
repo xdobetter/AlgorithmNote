@@ -25,8 +25,17 @@
     <Filter Include="源文件\PAT\9.3树的遍历">
       <UniqueIdentifier>{4256b546-c690-4aa6-ba2f-0c4308b59f9f}</UniqueIdentifier>
     </Filter>
-    <Filter Include="源文件\PAT\13动态规划">
+    <Filter Include="源文件\Chapter9 Tree\9.4二叉查找树">
+      <UniqueIdentifier>{d335c453-171b-40c7-b1c2-a903b972a69d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Chapter9 Tree\9.3树的遍历">
+      <UniqueIdentifier>{7ec528ff-4bc7-486d-ad49-249e33ba2cff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\PAT\11 动态规划">
       <UniqueIdentifier>{670c2d06-52f9-41fa-9d57-3c9b4ef94a5f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\PAT\9.4 BST">
+      <UniqueIdentifier>{bd8ca877-ad16-45c7-b258-59145af434cd}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -35,12 +44,6 @@
     </ClCompile>
     <ClCompile Include="暴力求解LES.cpp">
       <Filter>源文件\Chapter13 Dp</Filter>
-    </ClCompile>
-    <ClCompile Include="静态二叉树.cpp">
-      <Filter>源文件\Chapter9 Tree</Filter>
-    </ClCompile>
-    <ClCompile Include="树的静态写法.cpp">
-      <Filter>源文件\Chapter9 Tree</Filter>
     </ClCompile>
     <ClCompile Include="1090.cpp">
       <Filter>源文件\PAT\9.3树的遍历</Filter>
@@ -55,7 +58,7 @@
       <Filter>源文件\PAT\9.3树的遍历</Filter>
     </ClCompile>
     <ClCompile Include="1040.cpp">
-      <Filter>源文件\PAT\13动态规划</Filter>
+      <Filter>源文件\PAT\11 动态规划</Filter>
     </ClCompile>
     <ClCompile Include="1094.cpp">
       <Filter>源文件\PAT\9.3树的遍历</Filter>
@@ -68,6 +71,24 @@
     </ClCompile>
     <ClCompile Include="1004.cpp">
       <Filter>源文件\PAT\9.3树的遍历</Filter>
+    </ClCompile>
+    <ClCompile Include="BST.cpp">
+      <Filter>源文件\Chapter9 Tree\9.4二叉查找树</Filter>
+    </ClCompile>
+    <ClCompile Include="静态二叉树.cpp">
+      <Filter>源文件\Chapter9 Tree\9.3树的遍历</Filter>
+    </ClCompile>
+    <ClCompile Include="树的静态写法.cpp">
+      <Filter>源文件\Chapter9 Tree\9.3树的遍历</Filter>
+    </ClCompile>
+    <ClCompile Include="1043.cpp">
+      <Filter>源文件\PAT\9.4 BST</Filter>
+    </ClCompile>
+    <ClCompile Include="1064.cpp">
+      <Filter>源文件\PAT\9.4 BST</Filter>
+    </ClCompile>
+    <ClCompile Include="1099.cpp">
+      <Filter>源文件\PAT\9.4 BST</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
