@@ -37,6 +37,12 @@
     <Filter Include="源文件\PAT\9.4 BST">
       <UniqueIdentifier>{bd8ca877-ad16-45c7-b258-59145af434cd}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\Chapter9 Tree\9.5平衡二叉树">
+      <UniqueIdentifier>{b412cc00-d7ad-471f-ac80-11f50ec5e51f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\PAT\9.6 AVL">
+      <UniqueIdentifier>{1271c566-1aa5-4e90-ab4c-5c4bf5b148cc}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1007.cpp">
@@ -89,6 +95,12 @@
     </ClCompile>
     <ClCompile Include="1099.cpp">
       <Filter>源文件\PAT\9.4 BST</Filter>
+    </ClCompile>
+    <ClCompile Include="AVL.cpp">
+      <Filter>源文件\Chapter9 Tree\9.5平衡二叉树</Filter>
+    </ClCompile>
+    <ClCompile Include="1066.cpp">
+      <Filter>源文件\PAT\9.6 AVL</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
