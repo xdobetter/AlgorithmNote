@@ -43,6 +43,9 @@
     <Filter Include="源文件\PAT\9.6 AVL">
       <UniqueIdentifier>{1271c566-1aa5-4e90-ab4c-5c4bf5b148cc}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\Chapter 8 常用数据结构">
+      <UniqueIdentifier>{0c2a4afd-0e87-4e24-9787-b28c6bc515b3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1007.cpp">
@@ -101,6 +104,12 @@
     </ClCompile>
     <ClCompile Include="1066.cpp">
       <Filter>源文件\PAT\9.6 AVL</Filter>
+    </ClCompile>
+    <ClCompile Include="StaticList.cpp">
+      <Filter>源文件\Chapter 8 常用数据结构</Filter>
+    </ClCompile>
+    <ClCompile Include="dynamicList.cpp">
+      <Filter>源文件\Chapter 8 常用数据结构</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
