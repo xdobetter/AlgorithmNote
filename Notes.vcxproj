@@ -142,6 +142,7 @@
     <ClCompile Include="BST.cpp" />
     <ClCompile Include="dynamicList.cpp" />
     <ClCompile Include="StaticList.cpp" />
+    <ClCompile Include="并查集.cpp" />
     <ClCompile Include="暴力求解LES.cpp" />
     <ClCompile Include="树的静态写法.cpp" />
     <ClCompile Include="静态二叉树.cpp" />

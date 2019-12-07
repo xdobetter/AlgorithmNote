@@ -46,6 +46,12 @@
     <Filter Include="源文件\Chapter 8 常用数据结构">
       <UniqueIdentifier>{0c2a4afd-0e87-4e24-9787-b28c6bc515b3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\Chapter9 Tree\9.6并查集">
+      <UniqueIdentifier>{db7b7f27-9d08-4786-ba64-45e446e7374d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Chapter9 Tree\9.7堆">
+      <UniqueIdentifier>{95b22b52-0459-403b-864d-e67cd882e241}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1007.cpp">
@@ -110,6 +116,9 @@
     </ClCompile>
     <ClCompile Include="dynamicList.cpp">
       <Filter>源文件\Chapter 8 常用数据结构</Filter>
+    </ClCompile>
+    <ClCompile Include="并查集.cpp">
+      <Filter>源文件\Chapter9 Tree\9.6并查集</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
