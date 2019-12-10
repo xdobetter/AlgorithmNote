@@ -52,6 +52,12 @@
     <Filter Include="源文件\Chapter9 Tree\9.7堆">
       <UniqueIdentifier>{95b22b52-0459-403b-864d-e67cd882e241}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\PAT\9.7 堆">
+      <UniqueIdentifier>{1030c348-f668-414f-9089-a5d526d73339}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\PAT\4.6 two pointers">
+      <UniqueIdentifier>{c2fef796-ce10-4a45-b3da-3e75e8d8704d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1007.cpp">
@@ -119,6 +125,15 @@
     </ClCompile>
     <ClCompile Include="并查集.cpp">
       <Filter>源文件\Chapter9 Tree\9.6并查集</Filter>
+    </ClCompile>
+    <ClCompile Include="堆.cpp">
+      <Filter>源文件\Chapter9 Tree\9.7堆</Filter>
+    </ClCompile>
+    <ClCompile Include="1098.cpp">
+      <Filter>源文件\PAT\9.7 堆</Filter>
+    </ClCompile>
+    <ClCompile Include="1089.cpp">
+      <Filter>源文件\PAT\4.6 two pointers</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
